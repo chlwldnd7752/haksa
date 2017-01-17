@@ -3,7 +3,7 @@ package jpro;
 public class A {
 
 	public static void main(String[] args) {
-		System.out.println("½½¹Ì ¾÷·Îµå");
+		System.out.println("í‚´ìŠ¬ë¯¸");
 		System.out.println("");
 
 	}
