@@ -3,7 +3,7 @@ package jpro;
 public class Suelmi {
 
 	public static void main(String[] args) {
-		System.out.println("ÃÖ¿ëÁØ ¹Ùº¸");
+		System.out.println("ìµœìš©ì¤€ ë°”ë³´");
 	}
 
 }
