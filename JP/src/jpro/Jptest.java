@@ -9,7 +9,8 @@ public class Jptest {
 		int sum=a+b;
 		
 		System.out.println(sum);
-		System.out.println("olo");
 
+		System.out.println("olo");
+		System.out.println("гу╟Х : " + sum);
 	}
 }
